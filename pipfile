@@ -1,0 +1,5 @@
+psycopg2-binary
+redis
+bs4
+lepl
+tika
